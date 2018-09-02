@@ -14,17 +14,17 @@ ATENÇÃO: Remova os comentários HTML abaixo e preencha com os seus dados.
 
 ============================ --> 
 
-## Nome completo 
-
-<!-- José da Silva. --> 
-
 ## Repositório do desafio 
 
 <!-- Coloque a url do seu repositório aqui --> 
 
 ## Stack 
 
-<!-- - NodeJs - MongoDB - RabbitMQ --> 
+<!-- 
+- NodeJs 
+- MongoDB 
+- RabbitMQ 
+--> 
 
 ## Comentários 
 
@@ -35,4 +35,4 @@ ATENÇÃO: Remova os comentários HTML abaixo e preencha com os seus dados.
 ## Contato 
 
 <!-- Me segue no tt <3 https://twitter.com/BackendBrasil --> 
-<!-- E acompanhe meu bloghttp://backendbrasil.com.br/-->
+<!-- E acompanhe meu blog http://backendbrasil.com.br/-->
