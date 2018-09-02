@@ -10,7 +10,7 @@ Você foi contratado para desenvolver a plataforma que fornecerá toda a intelig
 
 3. Construa um serviço para listar POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 
-####Exemplo de Base de Dados:
+#### Exemplo de Base de Dados:
 
 - 'Lanchonete' (x=27, y=12)
 - 'Posto' (x=31, y=18)
@@ -20,7 +20,7 @@ Você foi contratado para desenvolver a plataforma que fornecerá toda a intelig
 - 'Supermercado' (x=23, y=6)
 - 'Churrascaria' (x=28, y=2)
 
-####Exemplo de Uso:
+#### Exemplo de Uso:
 Dado o ponto de referência (x=20, y=10) indicado pelo receptor GPS, e uma distância máxima de 10 metros, o serviço deve retornar os seguintes POIs:
 
  - Lanchonete
