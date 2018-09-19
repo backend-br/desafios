@@ -21,6 +21,22 @@ Montamos quatro níveis de dificuldade, que vão do easy ao evil genius :laughin
 ## Tenho uma ideia de desafio, como faço para sugerir ?
 - Faça um fork do projeto, e crie um arquivo **.md** com o enunciado do seu desafio dentro do folder com o nível de dificuldade adequado
 - Abra um pull request com seu desafio :)
+
+
+## Sumário
+Mais desafios serão adicionados ao longo do tempo, fique ligado :D
+ * EASY
+   * Encurtador de URLs
+ * MEDIUM
+   * Criptografia
+ * HARD
+   * Pontos de Interesse
+ * EVIL GENIUS
+   * Smart Contracts
+
+
+
+
 ## Licença
 
 [MIT](/LICENSE) &copy; BackEnd Brasil
