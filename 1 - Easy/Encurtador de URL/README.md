@@ -12,7 +12,11 @@ A url retornada deverá ser salva no banco de dados e possui prazo de validade (
 #### Exemplo ao encurtar
 - Seu sitema recebe uma chamada para encurtar a url `backendbrasil.com.br` e retorna o seguinte json
 
-``` { newUrl: http://localhost:8081/abc123ab} ```
+``` 
+{ 
+  newUrl: "http://localhost:8081/abc123ab";
+} 
+```
 
 #### Exemplo ao redirecionar
 - Ao receber uma chamada para `http://localhost:8081/abc123ab` você irá retorna um redirecionamento para a url salva no banco (`backendbrasil.com.br`), caso não seja encontrada, retornar HTTP 404
