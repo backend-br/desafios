@@ -26,13 +26,13 @@ Montamos quatro níveis de dificuldade, que vão do easy ao evil genius :laughin
 ## Sumário
 Mais desafios serão adicionados ao longo do tempo, fique ligado :D
  * EASY
-   * Encurtador de URLs
+   * [Encurtador de URLs](https:https://github.com/backend-br/desafios/tree/master/1%20-%20Easy/Encurtador%20de%20URL)
  * MEDIUM
-   * Criptografia
+   * [Criptografia](https://github.com/backend-br/desafios/tree/master/2%20-%20Medium/Criptografia)
  * HARD
-   * Pontos de Interesse
+   * [Pontos de Interesse](https://github.com/backend-br/desafios/tree/master/3%20-%20Hard/Pontos%20de%20Interesse)
  * EVIL GENIUS
-   * Smart Contracts
+   * [Smart Contracts](https://github.com/backend-br/desafios/tree/master/4%20-%20Evil%20Genius/Blockchain)
 
 
 
