@@ -2,7 +2,8 @@
 
 * [Overview](#overview)
 * [Como posso contribuir?](#contributing)
-    - [Tenho uma ideia de desafio, como faço para sugerir](#developing)
+    - [Sugerindo um novo desafio](#problem)
+    - [Adicionando uma solução de desafio](#solution)
 
 <div id='overview'></div> 
 
@@ -19,9 +20,28 @@ um pull request.
 
 Esta seção orienta você as possíveis maneiras de contribuir.
 
-<div id='developing'></div> 
+<div id='problem'></div> 
 
-### Tenho uma ideia de desafio, como faço para sugerir
+### Sugerindo um novo desafio
+
+A ideia é criar uma lista de desafios relevantes para o mercado, focando em problemas e soluções práticas, em vez de se
+concentrar em implementações de ordenação em estruturas de dados ou sequências de Fibonacci, que já são
+encontrados em diversos sites, como o [HackerRank](https://www.hackerrank.com), [CodeSignal](https://codesignal.com) e
+outros.
+
+Para iniciar o desenvolvimento, você precisará seguir alguns passos:
+
+- Fork este repositório.
+- Faça um clone do repositório que você fez seu fork.
+- Crie uma branch a partir da branch `master`.
+- Adicione sua contribuição, faça o commit e push.
+- Abra um [pull request](https://github.com/backend-br/desafios/pulls).
+
+<div id='solution'></div> 
+
+### Adicionando uma solução de desafio
+
+Basta adicionar o link da sua implementação no arquivo `SOLUTIONS.md`, do respectivo problema que você resolveu.
 
 Para iniciar o desenvolvimento, você precisará seguir alguns passos:
 

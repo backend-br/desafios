@@ -1,0 +1,2 @@
+* linguist-vendored
+*.ruby linguist-vendored=false
