@@ -1,0 +1,27 @@
+name: Validate links
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: Install bundle dependencies
+        run: bundle install
+
+      - name: Run link validation
+        run: bundle exec awesome_bot README.md cryptography/*.md points-of-interest/*.md url-shortener/*.md --allow-redirect --allow-ssl
