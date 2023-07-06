@@ -25,7 +25,7 @@ A estrutura da entidade correspondente seria a seguinte:
 | creditCardToken | String |
 | value           | Long   |
 
-## Regras
+## Requisitos
 
 - Implemente um CRUD simples considerando os campos mencionados acima como sensíveis.
 - Utilize o algoritmo de criptografia de sua preferência. Sugestões: [SHA-512](https://en.wikipedia.org/wiki/SHA-2) ou

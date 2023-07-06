@@ -17,7 +17,7 @@ Ao receber uma chamada para a URL encurtada `http://localhost:8081/abc123ab`, vo
 URL original salva no banco de dados (`backendbrasil.com.br`). Caso a URL encurtada não seja encontrada no banco,
 retorne o código de status `HTTP 404 (Not Found)`.
 
-## Regras
+## Requisitos
 
 - O encurtador de URLs recebe uma URL longa como parâmetro inicial.
 - O encurtamento será composto por um mínimo de 05 e um máximo de 10 caracteres.

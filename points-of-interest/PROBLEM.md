@@ -27,7 +27,7 @@ retornar os seguintes POIs:
 - Pub
 - Supermercado
 
-## Regras
+## Requisitos
 
 - Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo)
   e coordenada Y (inteiro não negativo).
