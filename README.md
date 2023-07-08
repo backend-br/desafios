@@ -12,6 +12,7 @@ desenvolvimento de aplicativos e serviços backend.
 ## Comece a solucionar
 
 - [Criptografia](cryptography/PROBLEM.md)
+- [Senha segura](secure-password/PROBLEM.md)
 - [Encurtador de URLs](url-shortener/PROBLEM.md)
 - [Pontos de Interesse por GPS](points-of-interest/PROBLEM.md)
 
