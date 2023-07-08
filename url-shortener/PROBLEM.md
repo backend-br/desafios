@@ -1,21 +1,31 @@
 # Encurtador de URLs
 
-Seu desafio será implementar um serviço permite encurtar URLs longas para torná-las mais compactas e fáceis de
+Seu desafio será implementar um serviço que permite encurtar URLs longas para torná-las mais compactas e fáceis de
 compartilhar.
 
 ## Exemplo
 
-Seu sistema recebe uma chamada para encurtar a URL `backendbrasil.com.br` e retorna o seguinte JSON:
+Seu serviço recebe uma chamada para encurtar uma URL.
+
+**[POST]** `{{host}}/shorten-url`
 
 ```json
 {
-    "newUrl": "http://localhost:8081/abc123ab"
+    "url": "https://backendbrasil.com.br"
 }
 ```
 
-Ao receber uma chamada para a URL encurtada `http://localhost:8081/abc123ab`, você deve fazer o redirecionamento para a
-URL original salva no banco de dados (`backendbrasil.com.br`). Caso a URL encurtada não seja encontrada no banco,
-retorne o código de status `HTTP 404 (Not Found)`.
+E retorna um JSON com a URL encurtada:
+
+```
+HTTP/1.1 200 OK
+```
+
+```json
+{
+    "url": "https://xxx.com/DXB6V"
+}
+```
 
 ## Requisitos
 
@@ -23,7 +33,9 @@ retorne o código de status `HTTP 404 (Not Found)`.
 - O encurtamento será composto por um mínimo de 05 e um máximo de 10 caracteres.
 - Apenas letras e números são permitidos no encurtamento.
 - A URL encurtada será salva no banco de dados com um prazo de validade (você pode escolher a duração desejada).
-- Caso a URL encurtada não seja encontrada no banco, retorne o código de status `HTTP 404 (Not Found)`.
+- Ao receber uma chamada para a URL encurtada `https://xxx.com/DXB6V`, você deve fazer o redirecionamento para a
+  URL original salva no banco de dados. Caso a URL não seja encontrada no banco, retorne o código de
+  status `HTTP 404 (Not Found)`.
 
 ## Soluções
 
