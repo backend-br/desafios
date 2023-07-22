@@ -25,4 +25,10 @@ jobs:
           content-filepath: ./lychee/out.md
       - name: Assign issues and pull requests
         if: env.lychee_exit_code != 0
-        uses: ./auto-assign.yml
+        uses: gustavofreze/auto-assign@1.0.0
+        with:
+          assignees: '${{ secrets.ASSIGNEES }}'
+          github_token: '${{ secrets.GITHUB_TOKEN }}'
+          allow_self_assign: 'true'
+          allow_no_assignees: 'true'
+          assignment_options: 'ISSUE'
