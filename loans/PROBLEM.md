@@ -22,13 +22,11 @@ Seu serviço recebe uma chamada para determinar quais modalidades de empréstimo
 
 ```json
 {
-  "customer": {
-    "age": 26,
-    "cpf": "275.484.389-23",
-    "name": "Vuxaywua Zukiagou",
-    "income": 7000.00,
-    "location": "SP"
-  }
+  "age": 26,
+  "cpf": "275.484.389-23",
+  "name": "Vuxaywua Zukiagou",
+  "income": 7000.00,
+  "location": "SP"
 }
 ```
 
