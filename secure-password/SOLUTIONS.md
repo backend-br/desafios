@@ -2,5 +2,6 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Senha segura](PROBLEM.md).
 
-| Linguagem | Repositório |
-|:----------|:------------|
+| Linguagem | Repositório                               |
+|:----------|:------------------------------------------|
+|Java       |https://github.com/roarena/secure-password/|
