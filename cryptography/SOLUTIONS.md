@@ -6,4 +6,5 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Criptog
 |:----------|:--------------------------------------------------|
 | `Go`      | https://github.com/Davi-Arauj/criptografia        |             
 | `NodeJS`  | https://github.com/rof20004/api-criptografia      |             
-| `NodeJS`  | https://github.com/rms-diego/desafio-2-backend-br |             
+| `NodeJS`  | https://github.com/rms-diego/desafio-2-backend-br |
+| `C#`      | https://github.com/louresb/CryptographyAPI        |          
