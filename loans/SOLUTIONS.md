@@ -6,3 +6,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 |:----------|:---------------------------------------------------------|
 | Java      | https://github.com/alvarengacarlos/Hexagonal-Achitecture |
 | Typescript| https://github.com/lucazpinheiro/loans-service           |
+| PHP       | https://github.com/albreis/desafio-emprestimo           |
