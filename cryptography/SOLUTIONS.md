@@ -11,3 +11,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Criptog
 | `Spring`  | https://github.com/Kauan-Code19/desafioCriptografia     |
 | `Spring`  | https://github.com/Icarolmo/DesafioBackend_Criptografia |
 | `Spring`  | https://github.com/Jvnyor/cryptography-challenge        |
+| `Spring`  | https://github.com/Krygz/BackEndBr-cryptography         |
