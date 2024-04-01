@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-      pull-requests: write
     steps:
       - name: Assign issues
         uses: gustavofreze/auto-assign@1.0.0
