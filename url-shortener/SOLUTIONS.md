@@ -9,6 +9,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Encurta
 | `Java`       | https://github.com/tyronedamasceno/URLShortener         |             
 | `Java`       | https://github.com/Raeski/url-encurtator                |             
 | `Java`       | https://github.com/tuliorsc10/encurtadorUrl             |             
+| `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-url-shortener-solution |
 | `NodeJS`     | https://github.com/devGuerra/urlShortener               |             
 | `NodeJS`     | https://github.com/victornovaiss/encurtador-url         |             
 | `NodeJS`     | https://github.com/Estevamrod/desafio/tree/main         |             
