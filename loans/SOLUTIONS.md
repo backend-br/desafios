@@ -8,4 +8,5 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/alvarengacarlos/Hexagonal-Achitecture |
 | `Java`       | https://github.com/paulomalandrim/loans-application      |
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-loans-solution |
+| `Java`       | https://github.com/eckelp/challenge-loans |
 | `Typescript` | https://github.com/lucazpinheiro/loans-service           |
