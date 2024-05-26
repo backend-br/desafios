@@ -11,3 +11,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/eckelp/challenge-loans |
 | `Java`       | https://github.com/gustavorsmedina/challenge-loans       |
 | `Typescript` | https://github.com/lucazpinheiro/loans-service           |
+| `C#`     | https://github.com/LucasBaitz/csharp-loans-service |
