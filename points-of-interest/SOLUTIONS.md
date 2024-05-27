@@ -9,3 +9,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Pontos 
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-points-of-interest-solution |
 | `TypeScript` | https://github.com/viniciuscosmome/points-of-interest |
 | `Go`         | https://github.com/lincolngondin/points-of-interest   |
+| `C#`     | https://github.com/LucasBaitz/csharp-points-of-interest |

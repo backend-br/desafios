@@ -5,7 +5,8 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Criptog
 | Linguagem | Repositório                                             |
 |:----------|:--------------------------------------------------------|
 | `Go`      | https://github.com/Davi-Arauj/criptografia              |             
-| `C#`      | https://github.com/louresb/CryptographyAPI              |          
+| `C#`      | https://github.com/louresb/CryptographyAPI              |
+| `C#`      | https://github.com/LucasBaitz/csharp-cryptography-service             |          
 | `Java`    | https://github.com/Kauan-Code19/desafioCriptografia     |
 | `Java`    | https://github.com/Icarolmo/DesafioBackend_Criptografia |
 | `Java`    | https://github.com/Jvnyor/cryptography-challenge        |
