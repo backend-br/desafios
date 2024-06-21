@@ -13,6 +13,7 @@ Assim, ao adicionar um novo endpoint, este já será interceptado e validado.
 Seu serviço recebe uma chamada no endpoint abaixo.
 
 **[GET]** `{{host}}/foo-bar`
+
 Header
     "Authorization": "vYQIYxOpyfr=="
 
