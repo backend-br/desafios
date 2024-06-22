@@ -2,12 +2,6 @@
 
 O desafio é implementar um serviço que valide o acessToken recebido no header da requisição.
 
-Você pode criar um método mock de validação do acessToken.
-
-Você deve criar uma forma de interceptar a requisição e validar antes que ela chegue de fato no seu controller.
-
-Assim, ao adicionar um novo endpoint, este já será interceptado e validado.
-
 ## Exemplo
 
 Seu serviço recebe uma chamada no endpoint abaixo.
@@ -15,6 +9,7 @@ Seu serviço recebe uma chamada no endpoint abaixo.
 **[GET]** `{{host}}/foo-bar`
 
 Header
+    
     "Authorization": "vYQIYxOpyfr=="
 
 Se o acessToken enviado no header Authorization for válido, então, seu serviço deve retornar uma resposta de sucesso.
@@ -34,6 +29,12 @@ HTTP/1.1 401 Unauthorized
     ...
 }
 ```
+
+## Requisitos
+
+- Deve ser criado um serviço mock para validação do acessToken.
+- Deve ser criado uma forma de interceptar a requisição e validar antes que ela chegue de fato no seu controller.
+- A implementação deve continuar funcionando da mesma forma após um novo endpoint ser criado.
 
 ## Soluções
 
