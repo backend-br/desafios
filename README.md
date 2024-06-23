@@ -12,6 +12,7 @@ backend.
 ## Comece a solucionar
 
 - [Criptografia](cryptography/PROBLEM.md)
+- [Autenticação](authentication/PROBLEM.md)
 - [Empréstimos](loans/PROBLEM.md)
 - [Senha segura](secure-password/PROBLEM.md)
 - [Encurtador de URLs](url-shortener/PROBLEM.md)
