@@ -1,6 +1,7 @@
 # Soluções - Autenticação
 
-Neste tópico, você encontrará uma lista de soluções para o desafio [Senha segura](PROBLEM.md).
+Neste tópico, você encontrará uma lista de soluções para o desafio [autenticação](PROBLEM.md).
 
 | Linguagem | Repositório                                                                        |
 |:----------|:-----------------------------------------------------------------------------------|
+| `Java`    | https://github.com/MoDasby/desafio-autenticacao                                    |
