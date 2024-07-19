@@ -7,6 +7,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Encurta
 | `Go`         | https://github.com/Davi-Arauj/desafio-encurtadorURL                              |             
 | `Go`         | https://github.com/RianNegreiros/url-shortener-go-redis                          |             
 | `C#`         | https://github.com/LucasBaitz/csharp-url-shortener-service                       |           
+| `Java`       | https://github.com/andre-xizto/encurtador-url                                    |             
 | `Java`       | https://github.com/tyronedamasceno/URLShortener                                  |             
 | `Java`       | https://github.com/Raeski/url-encurtator                                         |             
 | `Java`       | https://github.com/tuliorsc10/encurtadorUrl                                      |             
