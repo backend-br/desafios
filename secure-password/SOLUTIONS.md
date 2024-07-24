@@ -7,6 +7,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Senha s
 | `C#`      | https://github.com/LucasBaitz/csharp-secure-password                               |
 | `Go`      | https://github.com/RianNegreiros/secure-password                                   |
 | `PHP`     | https://github.com/Ricardo354/Desafios_Backend/tree/main/backend-br/senha_segura   |
+| `Java`    | https://github.com/andre-xizto/points-of-interest                                         |
 | `Java`    | https://github.com/roarena/secure-password                                         |
 | `Java`    | https://github.com/buildrun-tech/buildrun-desafio-backend-secure-password-solution |
 | `Java`    | https://github.com/gustavorsmedina/challenge-secure-password                       |
