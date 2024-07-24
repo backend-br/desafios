@@ -7,6 +7,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Pontos 
 | `Go`         | https://github.com/lincolngondin/points-of-interest                                   |
 | `C#`         | https://github.com/LucasBaitz/csharp-points-of-interest                               |
 | `PHP`        | https://github.com/gustavofreze/points-of-interest                                    |
+| `Java`       | https://github.com/andre-xizto/points-of-interest                                    |
 | `Java`       | https://github.com/eliasmarts/pontos-interesse-GPS                                    |
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-points-of-interest-solution |
 | `TypeScript` | https://github.com/viniciuscosmome/points-of-interest                                 |
