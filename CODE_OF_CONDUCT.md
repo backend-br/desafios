@@ -88,7 +88,7 @@ e o bem-estar dos membros da comunidade.
 
 ## 9. Licença e atribuição
 
-O Código de Conduta do Cidadão é distribuído pela [Stumptown Syndicate](http://stumptownsyndicate.org) sob uma
+O Código de Conduta do Cidadão é distribuído pela [Stumptown Syndicate](https://github.com/stumpsyn) sob uma
 licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0).
 
 Partes do texto derivadas do [Código de Conduta Django](https://www.djangoproject.com/conduct) e da
