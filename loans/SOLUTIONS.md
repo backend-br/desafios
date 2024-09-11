@@ -13,6 +13,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/eckelp/challenge-loans                                |
 | `Java`       | https://github.com/gustavorsmedina/challenge-loans                       |
 | `Java`       | https://github.com/JoaoGbriel13/Avaliador-de-Emprestimos)                |
+| `Java`       | https://github.com/Lucas-Vinicius-Santos/desafio--customer-loans         |
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
 | `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |
 | `Go`         | https://github.com/josehenriquepg/loans-service                          |
