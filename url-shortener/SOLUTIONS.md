@@ -18,7 +18,6 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Encurta
 | `NodeJS`     | https://github.com/devGuerra/urlShortener                                        |             
 | `NodeJS`     | https://github.com/victornovaiss/encurtador-url                                  |             
 | `NodeJS`     | https://github.com/Estevamrod/desafio/tree/main                                  |             
-| `Python`     | https://github.com/MichaelDeMattos/short-url                                     |             
 | `Python`     | https://github.com/Robotz213/EncurtadoPy                                         |    
 | `Typescript` | https://github.com/goncadanilo/url-shortener                                     |             
 | `Typescript` | https://github.com/rof20004/encurtador-url                                       | 

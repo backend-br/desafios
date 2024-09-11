@@ -22,11 +22,11 @@ Seu serviço recebe uma chamada para determinar quais modalidades de empréstimo
 
 ```json
 {
-  "age": 26,
-  "cpf": "275.484.389-23",
-  "name": "Vuxaywua Zukiagou",
-  "income": 7000.00,
-  "location": "SP"
+    "age": 26,
+    "cpf": "275.484.389-23",
+    "name": "Vuxaywua Zukiagou",
+    "income": 7000.00,
+    "location": "SP"
 }
 ```
 
@@ -39,21 +39,21 @@ HTTP/1.1 200 Ok
 
 ```json
 {
-  "customer": "Vuxaywua Zukiagou",
-  "loans": [
-    {
-      "type": "PERSONAL",
-      "interest_rate": 4
-    },
-    {
-      "type": "GUARANTEED",
-      "interest_rate": 3
-    },
-    {
-      "type": "CONSIGNMENT",
-      "interest_rate": 2
-    }
-  ]
+    "customer": "Vuxaywua Zukiagou",
+    "loans": [
+        {
+            "type": "PERSONAL",
+            "interest_rate": 4
+        },
+        {
+            "type": "GUARANTEED",
+            "interest_rate": 3
+        },
+        {
+            "type": "CONSIGNMENT",
+            "interest_rate": 2
+        }
+    ]
 }
 ```
 

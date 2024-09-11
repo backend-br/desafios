@@ -5,6 +5,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | Linguagem    | Repositório                                                              |
 |:-------------|:-------------------------------------------------------------------------|
 | `C#`         | https://github.com/LucasBaitz/csharp-loans-service                       |
+| `Go`         | https://github.com/josehenriquepg/loans-service                          |
 | `PHP`        | https://github.com/albreis/desafio-emprestimo                            |
 | `Java`       | https://github.com/andre-xizto/loans                                     |
 | `Java`       | https://github.com/alvarengacarlos/Hexagonal-Achitecture                 |
@@ -16,4 +17,3 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/Lucas-Vinicius-Santos/desafio--customer-loans         |
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
 | `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |
-| `Go`         | https://github.com/josehenriquepg/loans-service                          |
