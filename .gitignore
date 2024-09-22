@@ -1,1 +1,4 @@
 .idea
+.env
+composer.*
+vendor
