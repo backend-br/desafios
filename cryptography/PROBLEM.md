@@ -28,8 +28,12 @@ A estrutura da entidade correspondente seria a seguinte:
 ## Requisitos
 
 - Implemente um CRUD simples considerando os campos mencionados acima como sensíveis.
-- Utilize o algoritmo de criptografia de sua preferência. Sugestões: [SHA-512](https://en.wikipedia.org/wiki/SHA-2) ou
-  [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
+- Utilize um algoritmo de criptografia simétrica ou assimétrica de sua preferência. <br>
+
+Sugestões: <br>
+
+[AES](https://pt.wikipedia.org/wiki/Advanced_Encryption_Standard) para criptografia simétrica ou
+[RSA](https://en.wikipedia.org/wiki/PBKDF2) para criptografia assimétrica.
 
 ## Soluções
 
