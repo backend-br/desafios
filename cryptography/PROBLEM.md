@@ -29,11 +29,12 @@ A estrutura da entidade correspondente seria a seguinte:
 
 - Implemente um CRUD simples considerando os campos mencionados acima como sensíveis.
 - Utilize um algoritmo de criptografia simétrica ou assimétrica de sua preferência. <br>
+  </br>
 
-Sugestões: <br>
-
-[AES](https://pt.wikipedia.org/wiki/Advanced_Encryption_Standard) para criptografia simétrica ou
-[RSA](https://en.wikipedia.org/wiki/PBKDF2) para criptografia assimétrica.
+  Sugestões:
+  </br>
+  [AES](https://pt.wikipedia.org/wiki/Advanced_Encryption_Standard) para criptografia simétrica ou
+  [RSA](https://en.wikipedia.org/wiki/PBKDF2) para criptografia assimétrica.
 
 ## Soluções
 
