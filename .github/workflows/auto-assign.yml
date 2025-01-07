@@ -1,7 +1,10 @@
-name: Auto assign issues
+name: Auto assign issues and pull requests
 
 on:
   issues:
+    types:
+      - opened
+  pull_request:
     types:
       - opened
 
@@ -10,12 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      pull-requests: write
     steps:
-      - name: Assign issues
-        uses: gustavofreze/auto-assign@1.0.0
+      - name: Assign issues and pull requests
+        uses: gustavofreze/auto-assign@1.1.4
         with:
           assignees: '${{ secrets.ASSIGNEES }}'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
-          assignment_options: 'ISSUE'
+          assignment_options: 'ISSUE,PULL_REQUEST'

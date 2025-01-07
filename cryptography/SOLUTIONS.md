@@ -15,7 +15,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Criptog
 | `Java`    | https://github.com/buildrun-tech/buildrun-desafio-backend-cryptography-solution |
 | `Java`    | https://github.com/gustavorsmedina/challenge-cryptography                       |
 | `Java`    | https://github.com/deiz0n/desafio-backend-criptografia                          |
-| `NodeJS`  | https://github.com/rof20004/api-criptografia                                    |
-| `NodeJS`  | https://github.com/rms-diego/desafio-2-backend-br                               |
 | `Ruby`    | https://github.com/oransje/desafio-backend-br-criptografia                      |
 | `Ruby`    | https://github.com/b-sep/cripto                                                 | 
+| `NodeJS`  | https://github.com/rof20004/api-criptografia                                    |
+| `NodeJS`  | https://github.com/rms-diego/desafio-2-backend-br                               |
