@@ -1,0 +1,15 @@
+{
+  "name": "desafios",
+  "version": "1.0.0",
+  "main": "secure_password_get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
