@@ -9,6 +9,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Go`         | https://github.com/mrangel-jr/loans-service                              |
 | `PHP`        | https://github.com/albreis/desafio-emprestimo                            |
 | `Java`       | https://github.com/caio20538/loans.git                                   |
+| `Java`       | https://github.com/Glaudencio12/challenge-loans                                   |
 | `Java`       | https://github.com/andre-xizto/loans                                     |
 | `Java`       | https://github.com/alvarengacarlos/Hexagonal-Achitecture                 |
 | `Java`       | https://github.com/paulomalandrim/loans-application                      |
