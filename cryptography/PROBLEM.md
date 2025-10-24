@@ -1,7 +1,7 @@
 # Criptografia
 
-Seu desafio será implementar a criptografia em um serviço de forma transparente para a API e para as camadas de
-serviço de sua aplicação. O objetivo é garantir que os campos sensíveis dos objetos de entidade não sejam visíveis
+O seu desafio será implementar a criptografia num serviço de forma transparente para a API e para as camadas de
+serviço da sua aplicação. O objetivo é garantir que os campos sensíveis dos objetos de entidade não sejam visíveis
 diretamente, realizando a criptografia em tempo de execução durante a conversão da entidade para a coluna correspondente
 no banco de dados, e vice-versa.
 
@@ -28,7 +28,7 @@ A estrutura da entidade correspondente seria a seguinte:
 ## Requisitos
 
 - Implemente um CRUD simples considerando os campos mencionados acima como sensíveis.
-- Utilize um algoritmo de criptografia simétrica ou assimétrica de sua preferência. <br>
+- Utilize um algoritmo de criptografia simétrica ou assimétrica da sua preferência. <br>
   </br>
 
   Sugestões:

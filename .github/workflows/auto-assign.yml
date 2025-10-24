@@ -22,4 +22,4 @@ jobs:
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
-          assignment_options: 'ISSUE,PULL_REQUEST'
+          assignment_options: 'ISSUE'

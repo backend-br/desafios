@@ -1,9 +1,9 @@
 # Pontos de Interesse por GPS
 
-Seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores
+O seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores
 GPS (Global Positioning System).
 A diretoria está empenhada em lançar um dispositivo inovador que promete auxiliar pessoas na localização de pontos de
-interesse (POIs), e precisa muito de sua ajuda.
+interesse (POIs), e precisa muito da sua ajuda.
 Você foi contratado para desenvolver a plataforma que fornecerá toda a inteligência ao dispositivo. Esta plataforma deve
 ser baseada em serviços REST, para flexibilizar a integração.
 
@@ -31,7 +31,7 @@ retornar os seguintes POIs:
 
 - Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo)
   e coordenada Y (inteiro não negativo).
-- Os POIs devem ser armazenados em uma base de dados.
+- Os POIs devem ser armazenados numa base de dados.
 - Listar todos os POIs cadastrados.
 - Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de
   referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados

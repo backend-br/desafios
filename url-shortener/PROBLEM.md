@@ -1,11 +1,11 @@
 # Encurtador de URLs
 
-Seu desafio será implementar um serviço que permite encurtar URLs longas para torná-las mais compactas e fáceis de
+O seu desafio será implementar um serviço que permite encurtar URLs longas para torná-las mais compactas e fáceis de
 compartilhar.
 
 ## Exemplo
 
-Seu serviço recebe uma chamada para encurtar uma URL.
+O seu serviço recebe uma chamada para encurtar uma URL.
 
 **[POST]** `{{host}}/shorten-url`
 

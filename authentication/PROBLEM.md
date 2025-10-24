@@ -1,10 +1,10 @@
 # Autenticação
 
-Seu desafio será implementar um serviço que valide um token de acesso recebido no header da requisição HTTP.
+O seu desafio será implementar um serviço que valide um token de acesso recebido no header da requisição HTTP.
 
 ## Exemplo
 
-Seu serviço recebe uma chamada no endpoint abaixo.
+O seu serviço recebe uma chamada no endpoint abaixo.
 
 **[GET]** `{{host}}/foo-bar`
 
@@ -18,7 +18,7 @@ Se o token enviado no header `Authorization` for válido, então, uma resposta d
 HTTP/1.1 204 NoContent
 ```
 
-Se o token for inválido, seu serviço deve retornar uma mensagem de erro, indicando que o token é inválido. A
+Se o token for inválido, o seu serviço deve retornar uma mensagem de erro, indicando que o token é inválido. A
 estrutura da mensagem de erro pode ser definida por você, mas deve conter informações claras sobre o problema.
 
 ```
@@ -36,7 +36,7 @@ HTTP/1.1 401 Unauthorized
 - Deve ser criado um serviço para a validação do token. Implementar uma lógica concreta de validação é opcional,
   podendo ser utilizado um mock para este fim.
 - Deve ser implementada uma forma de interceptar a requisição e validar o token antes que ela chegue ao seu controlador.
-- A implementação deve ser feita de maneira que continue funcionando corretamente após a adição de novos endpoints.
+- A implementação deve ser feita de maneira que continue a funcionar corretamente após a adição de novos endpoints.
 
 ## Soluções
 
