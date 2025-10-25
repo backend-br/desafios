@@ -7,6 +7,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `C#`         | https://github.com/LucasBaitz/csharp-loans-service                       |
 | `Go`         | https://github.com/josehenriquepg/loans-service                          |
 | `Go`         | https://github.com/mrangel-jr/loans-service                              |
+| `Go`         | https://github.com/rlevidev/emprestimo-go                                |
 | `PHP`        | https://github.com/albreis/desafio-emprestimo                            |
 | `Java`       | https://github.com/caio20538/loans.git                                   |
 | `Java`       | https://github.com/Glaudencio12/challenge-loans                          |
