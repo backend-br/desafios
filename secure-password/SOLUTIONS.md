@@ -6,6 +6,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Senha s
 |:-------------|:-----------------------------------------------------------------------------------|
 | `C#`         | https://github.com/LucasBaitz/csharp-secure-password                               |
 | `Go`         | https://github.com/RianNegreiros/secure-password                                   |
+| `Go`         | https://github.com/rlevidev/securepassword-go                                      |
 | `Php`        | https://github.com/Daniel-P-Lima/secure-password                                   |
 | `Java`       | https://github.com/andre-xizto/senha-segura                                        |
 | `Java`       | https://github.com/roarena/secure-password                                         |
