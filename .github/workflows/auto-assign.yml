@@ -18,7 +18,7 @@ jobs:
       - name: Assign issues and pull requests
         uses: gustavofreze/auto-assign@2.0.0
         with:
-          assignees: '${{ vars.ASSIGNEES }}'
+          assignees: 'gustavofreze'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
