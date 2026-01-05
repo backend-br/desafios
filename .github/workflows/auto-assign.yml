@@ -7,7 +7,6 @@ on:
   pull_request:
     types:
       - opened
-  workflow_dispatch:
 
 jobs:
   run:
@@ -19,7 +18,7 @@ jobs:
       - name: Assign issues and pull requests
         uses: gustavofreze/auto-assign@2.0.0
         with:
-          assignees: 'gustavofreze'
+          assignees: '${{ vars.ASSIGNEES }}'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
