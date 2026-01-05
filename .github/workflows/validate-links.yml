@@ -1,6 +1,9 @@
 name: Validate links
 
 on:
+  pull_request:
+    branches:
+      - master
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
