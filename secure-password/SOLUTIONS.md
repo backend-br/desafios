@@ -15,3 +15,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Senha s
 | `NodeJS`     | https://github.com/EllyanF/password-validation                                     |
 | `Typescript` | https://github.com/7Cass/secure-password-challenge                                 |
 | `Typescript` | https://github.com/JuanLucca846/secure-password-api                                |
+| `Java`       | https://github.com/sheylaghost/minha-solucao-secure-password                       |
