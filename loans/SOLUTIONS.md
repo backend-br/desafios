@@ -23,4 +23,5 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/Klleriston/Loans-Challenge-Backend-BR                 |
 | `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
-| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |
+| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript 
+| `Java`       | https://github.com/EmmanuelGomesSilva/loan-service                       |
