@@ -21,8 +21,8 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/Lucas-Vinicius-Santos/desafio--customer-loans         |
 | `Java`       | https://github.com/FakeKus/Loan-Java                                     |
 | `Java`       | https://github.com/Klleriston/Loans-Challenge-Backend-BR                 |
-| `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
-| `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
-| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |  
 | `Java`       | https://github.com/EmmanuelGomesSilva/loan-service                       |
 | `Java`       | https://github.com/Francisco-Montalvao/loans.git                         |
+| `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
+| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |  
+| `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
