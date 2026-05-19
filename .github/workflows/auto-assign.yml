@@ -8,17 +8,24 @@ on:
     types:
       - opened
 
+concurrency:
+  group: auto-assign-${{ github.event.issue.number || github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
-  run:
+  auto-assign:
+    name: Auto assign
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
+    timeout-minutes: 5
     steps:
       - name: Assign issues and pull requests
-        uses: gustavofreze/auto-assign@2.0.0
+        uses: gustavofreze/auto-assign@2.1.0
         with:
-          assignees: '${{ vars.ASSIGNEES }}'
+          assignees: 'gustavofreze'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
