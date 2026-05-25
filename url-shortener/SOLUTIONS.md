@@ -16,6 +16,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Encurta
 | `Java`       | https://github.com/gustavorsmedina/challenge-url-shortener                       |
 | `Java`       | https://github.com/matheusgmello/desafio-url-shortener                           |
 | `Java`       | https://github.com/rlevidev/encurtador-url                                       |
+| `Java`       | https://github.com/CarlosSilva-DEV/desafio-backend-url-shortener                 |
 | `NodeJS`     | https://github.com/devGuerra/urlShortener                                        |             
 | `NodeJS`     | https://github.com/victornovaiss/encurtador-url                                  |             
 | `NodeJS`     | https://github.com/Estevamrod/desafio/tree/main                                  |             
