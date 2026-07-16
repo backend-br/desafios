@@ -9,3 +9,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [autenti
 | `Ruby`       | https://github.com/b-sep/authentication           |
 | `Python`     | https://github.com/BrunoBorelliPro/authentication |
 | `JavaScript` | https://github.com/meiotera/authentication-node   |
+| `Python`     | https://github.com/gabrielteramae/authentication-desafio |
