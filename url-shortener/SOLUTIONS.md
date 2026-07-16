@@ -23,3 +23,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Encurta
 | `Python`     | https://github.com/Robotz213/EncurtadoPy                                         |    
 | `Typescript` | https://github.com/goncadanilo/url-shortener                                     |             
 | `Typescript` | https://github.com/rof20004/encurtador-url                                       | 
+| `Python`     | https://github.com/gabrielteramae/encurtador-de-urls-desafio                     |
