@@ -3,7 +3,7 @@
 Neste tópico, você encontrará uma lista de soluções para o desafio [Empréstimos](PROBLEM.md).
 
 | Linguagem    | Repositório                                                              |
-|:-------------|:-------------------------------------------------------------------------|
+| :----------- | :----------------------------------------------------------------------- |
 | `C#`         | https://github.com/LucasBaitz/csharp-loans-service                       |
 | `Go`         | https://github.com/josehenriquepg/loans-service                          |
 | `Go`         | https://github.com/mrangel-jr/loans-service                              |
@@ -24,5 +24,6 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/EmmanuelGomesSilva/loan-service                       |
 | `Java`       | https://github.com/Francisco-Montalvao/loans.git                         |
 | `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
-| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |  
+| `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
+| `Python`     | https://github.com/gabrielteramae/loans-desafio                          |
