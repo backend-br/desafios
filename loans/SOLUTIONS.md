@@ -26,3 +26,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
 | `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |  
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
+| `Python`     | https://github.com/gabrielteramae/loans-desafio                          |
