@@ -3,7 +3,7 @@
 Neste tópico, você encontrará uma lista de soluções para o desafio [Criptografia](PROBLEM.md).
 
 | Linguagem | Repositório                                                                     |
-| :-------- | :------------------------------------------------------------------------------ |
+|:----------|:--------------------------------------------------------------------------------|
 | `Go`      | https://github.com/Davi-Arauj/criptografia                                      |
 | `Go`      | https://github.com/lincolngondin/desafio-criptografia                           |
 | `C#`      | https://github.com/louresb/CryptographyAPI                                      |

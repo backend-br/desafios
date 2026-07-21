@@ -11,5 +11,5 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Pontos 
 | `Java`       | https://github.com/eliasmarts/pontos-interesse-GPS                                    |
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-points-of-interest-solution |
 | `Java`       | https://github.com/carlinhoshk/points-of-interest                                     |
-| `TypeScript` | https://github.com/viniciuscosmome/points-of-interest                                 |
 | `Python`     | https://github.com/gabrielteramae/pontos-de-interesse-por-gps-desafio                 |
+| `TypeScript` | https://github.com/viniciuscosmome/points-of-interest                                 |

@@ -13,6 +13,6 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Senha s
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-secure-password-solution |
 | `Java`       | https://github.com/gustavorsmedina/challenge-secure-password                       |
 | `NodeJS`     | https://github.com/EllyanF/password-validation                                     |
+| `Python`     | https://github.com/gabrielteramae/senha-segura-desafio                             |
 | `Typescript` | https://github.com/7Cass/secure-password-challenge                                 |
 | `Typescript` | https://github.com/JuanLucca846/secure-password-api                                |
-| `Python`     | https://github.com/gabrielteramae/senha-segura-desafio                             |

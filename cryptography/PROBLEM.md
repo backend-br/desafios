@@ -1,9 +1,9 @@
 # Criptografia
 
-O seu desafio será implementar a criptografia num serviço de forma transparente para a API e para as camadas de
-serviço da sua aplicação. O objetivo é garantir que os campos sensíveis dos objetos de entidade não sejam visíveis
-diretamente, realizando a criptografia em tempo de execução durante a conversão da entidade para a coluna correspondente
-no banco de dados, e vice-versa.
+O seu desafio será implementar a criptografia num serviço de forma transparente para a API e para as camadas de serviço
+da sua aplicação. O objetivo é garantir que os campos sensíveis dos objetos de entidade não sejam visíveis diretamente,
+realizando a criptografia em tempo de execução durante a conversão da entidade para a coluna correspondente no banco de
+dados, e vice-versa.
 
 ## Exemplo
 

@@ -1,11 +1,10 @@
 # Pontos de Interesse por GPS
 
-O seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores
-GPS (Global Positioning System).
-A diretoria está empenhada em lançar um dispositivo inovador que promete auxiliar pessoas na localização de pontos de
-interesse (POIs), e precisa muito da sua ajuda.
-Você foi contratado para desenvolver a plataforma que fornecerá toda a inteligência ao dispositivo. Esta plataforma deve
-ser baseada em serviços REST, para flexibilizar a integração.
+O seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores GPS
+(Global Positioning System). A diretoria está empenhada em lançar um dispositivo inovador que promete auxiliar pessoas
+na localização de pontos de interesse (POIs), e precisa muito da sua ajuda. Você foi contratado para desenvolver a
+plataforma que fornecerá toda a inteligência ao dispositivo. Esta plataforma deve ser baseada em serviços REST, para
+flexibilizar a integração.
 
 ## Exemplo
 
