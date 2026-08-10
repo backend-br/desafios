@@ -5,6 +5,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | Linguagem    | Repositório                                                              |
 |:-------------|:-------------------------------------------------------------------------|
 | `C#`         | https://github.com/LucasBaitz/csharp-loans-service                       |
+| `C#`         | https://github.com/cmathxus/csharp-loans-service                         |
 | `Go`         | https://github.com/josehenriquepg/loans-service                          |
 | `Go`         | https://github.com/mrangel-jr/loans-service                              |
 | `Go`         | https://github.com/rlevidev/emprestimo-go                                |
