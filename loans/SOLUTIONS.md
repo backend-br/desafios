@@ -10,10 +10,10 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Go`         | https://github.com/mrangel-jr/loans-service                              |
 | `Go`         | https://github.com/rlevidev/emprestimo-go                                |
 | `PHP`        | https://github.com/albreis/desafio-emprestimo                            |
-| `Java`       | https://github.com/caio20538/loans.git                                   |
+| `Java`       | https://github.com/caio20538/loans                                       |
 | `Java`       | https://github.com/Glaudencio12/challenge-loans                          |
 | `Java`       | https://github.com/andre-xizto/loans                                     |
-| `Java`       | https://github.com/alvarengacarlos/Hexagonal-Achitecture                 |
+| `Java`       | https://github.com/alvarengacarlos/Clean-Achitecture                     |
 | `Java`       | https://github.com/paulomalandrim/loans-application                      |
 | `Java`       | https://github.com/buildrun-tech/buildrun-desafio-backend-loans-solution |
 | `Java`       | https://github.com/eckelp/challenge-loans                                |
@@ -23,7 +23,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `Java`       | https://github.com/FakeKus/Loan-Java                                     |
 | `Java`       | https://github.com/Klleriston/Loans-Challenge-Backend-BR                 |
 | `Java`       | https://github.com/EmmanuelGomesSilva/loan-service                       |
-| `Java`       | https://github.com/Francisco-Montalvao/loans.git                         |
+| `Java`       | https://github.com/barbaro-br/loans                                      |
 | `Python`     | https://github.com/cesarcoppolasantos/python-loans-service               |
 | `Python`     | https://github.com/gabrielteramae/loans-desafio                          |
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
