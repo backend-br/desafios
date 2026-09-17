@@ -6,7 +6,7 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Criptog
 |:----------|:--------------------------------------------------------------------------------|
 | `Go`      | https://github.com/Davi-Arauj/criptografia                                      |
 | `Go`      | https://github.com/lincolngondin/desafio-criptografia                           |
-| `C#`      | https://github.com/louresb/CryptographyAPI                                      |
+| `C#`      | https://github.com/louresb/cryptography-api                                     |
 | `C#`      | https://github.com/LucasBaitz/csharp-cryptography-service                       |
 | `Java`    | https://github.com/Kauan-Code19/desafioCriptografia                             |
 | `Java`    | https://github.com/Icarolmo/DesafioBackend_Criptografia                         |
