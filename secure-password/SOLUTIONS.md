@@ -14,3 +14,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Senha s
 | `Python`     | https://github.com/gabrielteramae/senha-segura-desafio                             |
 | `Typescript` | https://github.com/7Cass/secure-password-challenge                                 |
 | `Typescript` | https://github.com/JuanLucca846/secure-password-api                                |
+| `C`         | https://github.com/ssmurfgg04-gif/secure-password-c                                  |
