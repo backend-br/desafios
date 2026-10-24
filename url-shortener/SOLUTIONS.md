@@ -2,6 +2,8 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Encurtador de URLs](PROBLEM.md).
 
+🥇 Primeira solução: https://github.com/tyronedamasceno/URLShortener, enviada em 03/10/2018.
+
 | Linguagem    | Repositório                                                                      |
 |:-------------|:---------------------------------------------------------------------------------|
 | `Go`         | https://github.com/reisvitt/url-shortener-go                                     |
