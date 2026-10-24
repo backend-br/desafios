@@ -2,6 +2,8 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Criptografia](PROBLEM.md).
 
+🥇 Primeira solução: https://github.com/rof20004/api-criptografia, enviada em 11/11/2020.
+
 | Linguagem | Repositório                                                                     |
 |:----------|:--------------------------------------------------------------------------------|
 | `Go`      | https://github.com/Davi-Arauj/criptografia                                      |

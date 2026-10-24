@@ -2,6 +2,8 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Empréstimos](PROBLEM.md).
 
+🥇 Primeira solução: https://github.com/lucazpinheiro/loans-service, enviada em 02/09/2023.
+
 | Linguagem    | Repositório                                                              |
 |:-------------|:-------------------------------------------------------------------------|
 | `C#`         | https://github.com/LucasBaitz/csharp-loans-service                       |

@@ -2,6 +2,8 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Pontos de Interesse por GPS](PROBLEM.md).
 
+🥇 Primeira solução: https://github.com/gustavofreze/points-of-interest, enviada em 12/08/2022.
+
 | Linguagem    | Repositório                                                                           |
 |:-------------|:--------------------------------------------------------------------------------------|
 | `Go`         | https://github.com/lincolngondin/points-of-interest                                   |

@@ -2,6 +2,8 @@
 
 Neste tópico, você encontrará uma lista de soluções para o desafio [Senha segura](PROBLEM.md).
 
+🥇 Primeira solução: https://github.com/RianNegreiros/secure-password, enviada em 25/11/2023.
+
 | Linguagem    | Repositório                                                                        |
 |:-------------|:-----------------------------------------------------------------------------------|
 | `C#`         | https://github.com/LucasBaitz/csharp-secure-password                               |
