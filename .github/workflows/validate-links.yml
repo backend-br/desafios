@@ -12,39 +12,12 @@ concurrency:
   group: validate-links-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
-permissions:
-  issues: write
-  contents: read
+permissions: {}
 
 jobs:
-  link-checker:
-    name: Link checker
-    runs-on: ubuntu-26.04
-    timeout-minutes: 15
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-
-      - id: lychee
-        name: Check links
-        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
-        with:
-          fail: false
-
-      - if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
-        name: Create issue
-        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
-        with:
-          title: Relatório de links quebrados
-          labels: 'report, automated-issue'
-          content-filepath: ./lychee/out.md
-
-      - if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
-        name: Assign issues
-        uses: gustavofreze/auto-assign@2b04688604e1bc6649d9d75c8273b1699c413853 # 3.0.0
-        with:
-          assignees: '${{ vars.ASSIGNEES }}'
-          github_token: '${{ secrets.GITHUB_TOKEN }}'
-          allow_self_assign: 'true'
-          allow_no_assignees: 'true'
-          assignment_options: 'ISSUE'
+  validate-links:
+    name: Validate links
+    permissions:
+      issues: write
+      contents: read
+    uses: backend-br/.github/.github/workflows/validate-links.yml@main

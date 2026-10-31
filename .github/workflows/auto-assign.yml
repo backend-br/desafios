@@ -12,21 +12,14 @@ concurrency:
   group: auto-assign-${{ github.event.issue.number || github.event.pull_request.number }}
   cancel-in-progress: true
 
-permissions:
-  issues: write
-  pull-requests: write
+permissions: {}
 
 jobs:
   auto-assign:
     name: Auto assign
-    runs-on: ubuntu-26.04
-    timeout-minutes: 5
-    steps:
-      - name: Assign issues and pull requests
-        uses: gustavofreze/auto-assign@2b04688604e1bc6649d9d75c8273b1699c413853 # 3.0.0
-        with:
-          assignees: '${{ vars.ASSIGNEES }}'
-          github_token: '${{ secrets.GITHUB_TOKEN }}'
-          allow_self_assign: 'true'
-          allow_no_assignees: 'true'
-          assignment_options: 'ISSUE,PULL_REQUEST'
+    permissions:
+      issues: write
+      pull-requests: write
+    uses: backend-br/.github/.github/workflows/auto-assign.yml@main
+    with:
+      assignment-options: 'ISSUE,PULL_REQUEST'
