@@ -8,31 +8,42 @@ on:
     - cron: '0 0 * * 1'
   workflow_dispatch:
 
+concurrency:
+  group: validate-links-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  issues: write
+  contents: read
+
 jobs:
   link-checker:
-    runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      contents: read
+    name: Link checker
+    runs-on: ubuntu-26.04
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v6
-      - name: Check links
-        id: lychee
-        uses: lycheeverse/lychee-action@v2.9.0
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - id: lychee
+        name: Check links
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           fail: false
-      - name: Create issue
-        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v6
+
+      - if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+        name: Create issue
+        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
         with:
-          title: Link checker report
+          title: Relatório de links quebrados
           labels: 'report, automated-issue'
           content-filepath: ./lychee/out.md
-      - name: Assign issues and pull requests
-        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+
+      - if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+        name: Assign issues
         uses: gustavofreze/auto-assign@2b04688604e1bc6649d9d75c8273b1699c413853 # 3.0.0
         with:
-          assignees: 'gustavofreze'
+          assignees: '${{ vars.ASSIGNEES }}'
           github_token: '${{ secrets.GITHUB_TOKEN }}'
           allow_self_assign: 'true'
           allow_no_assignees: 'true'
