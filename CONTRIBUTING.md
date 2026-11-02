@@ -41,7 +41,12 @@ Para iniciar o desenvolvimento, você precisará seguir alguns passos:
 
 ### Adicionando uma solução de desafio
 
-Basta adicionar o link da sua implementação no arquivo `SOLUTIONS.md`, do respectivo problema que você resolveu.
+Basta adicionar uma linha na tabela do arquivo `SOLUTIONS.md` do problema que você resolveu, com a linguagem e o link
+nomeado pelo seu usuário e repositório:
+
+```markdown
+| `Go`         | [seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio) |
+```
 
 Para iniciar o desenvolvimento, você precisará seguir alguns passos:
 
