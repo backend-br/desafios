@@ -64,8 +64,8 @@ O total de SEK 89 vem da soma de cada dia:
 - O valor máximo por dia e por veículo é de SEK 60.
 - A taxa não é cobrada nos fins de semana (sábados e domingos), nos feriados, nas vésperas de feriado e durante o mês de
   julho.
-- Os feriados de 2013 são 01/01, 06/01, 29/03, 31/03, 01/04, 01/05, 09/05, 19/05, 06/06, 22/06, 02/11, 25/12 e 26/12.
-  O dia 31/12 é véspera do feriado de 01/01/2014.
+- Os feriados de 2013 são 01/01, 06/01, 29/03, 31/03, 01/04, 01/05, 09/05, 19/05, 06/06, 22/06, 02/11, 25/12 e 26/12. O
+  dia 31/12 é véspera do feriado de 01/01/2014.
 - O valor de cada passagem segue a tabela de horários:
 
   | Horário     | Valor  |
@@ -84,8 +84,8 @@ O total de SEK 89 vem da soma de cada dia:
 - Regra de cobrança única: um veículo que passa por vários pedágios dentro de 60 minutos é taxado apenas uma vez, pelo
   maior valor. A janela de 60 minutos começa na primeira passagem cobrada, e a primeira passagem cobrada depois dela
   abre uma nova janela.
-- Veículos de emergência (`EMERGENCY`), ônibus (`BUS`), veículos diplomáticos (`DIPLOMAT`), motocicletas
-  (`MOTORCYCLE`), veículos militares (`MILITARY`) e veículos estrangeiros (`FOREIGN`) são isentos.
+- Veículos de emergência (`EMERGENCY`), ônibus (`BUS`), veículos diplomáticos (`DIPLOMAT`), motocicletas (`MOTORCYCLE`),
+  veículos militares (`MILITARY`) e veículos estrangeiros (`FOREIGN`) são isentos.
 - As passagens podem chegar fora de ordem.
 - Você pode limitar o escopo ao ano de 2013.
 
