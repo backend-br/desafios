@@ -17,6 +17,7 @@ backend.
 - [Senha segura](secure-password/PROBLEM.md)
 - [Encurtador de URLs](url-shortener/PROBLEM.md)
 - [Pontos de Interesse por GPS](points-of-interest/PROBLEM.md)
+- [Taxa de congestionamento](congestion-tax/PROBLEM.md)
 
 ## Licença
 
